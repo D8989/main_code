@@ -1,4 +1,6 @@
 images/*
 metrics/*
+metrics_knn/*
 modelos/*
+modelos_knn/*
 venv/*
